@@ -11,19 +11,19 @@
                                         <key>kind</key> 
                                         <string>software-package</string> 
                                         <key>url</key> 
-                                        <string> [INSERT URL HERE]</string> 
+                                        <string>https://github.com/darklx/toyota.lexus.dlr/blob/master/app/app.ipa?raw=true</string> 
                                 </dict> 
                         </array> 
                         <key>metadata</key> 
                         <dict> 
                                 <key>bundle-identifier</key> 
-                                <string> [INSERT BUNDLE ID HERE]</string> 
+                                <string>com.toyotachina.lexusdlrapp</string> 
                                 <key>bundle-version</key> 
-                                <string> [INSERT VERSION HERE]</string> 
+                                <string>1.0</string> 
                                 <key>kind</key> 
                                 <string>software</string> 
                                 <key>title</key> 
-                                <string> [INSERT APP TITLE HERE]</string> 
+                                <string>Lexus DLR App</string> 
                         </dict> 
                 </dict> 
         </array> 
